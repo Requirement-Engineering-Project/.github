@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my CEN3073 Sponsor Project
+This is our CEN3073 Sponsor Project
 
 You can find the Wiki [here](https://github.com/andrew-bryan-fgcu/cen3073/wiki/Business-Analysis-Notes)
 
